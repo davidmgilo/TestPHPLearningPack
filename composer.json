@@ -1,0 +1,13 @@
+{
+    "name": "davidmgilo/test-php-learning-pack",
+    "description": "Testing the package php-learning",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Martinez",
+            "email": "davidmgilo@gmail.com"
+        }
+    ],
+    "require": {}
+}
