@@ -9,5 +9,7 @@
             "email": "davidmgilo@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "davidmgilo/php-learning": "^0.1.0"
+    }
 }

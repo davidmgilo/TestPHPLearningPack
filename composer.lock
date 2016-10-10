@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "dc5b31767650fd9f49622be257d55b16",
+    "content-hash": "0b506d25bdd85ff0f5500d3a82474a26",
+    "packages": [
+        {
+            "name": "davidmgilo/php-learning",
+            "version": "0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/davidmgilo/php-learning.git",
+                "reference": "840b8cb60bdcff1f19518d29cfe80716257e263f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/davidmgilo/php-learning/zipball/840b8cb60bdcff1f19518d29cfe80716257e263f",
+                "reference": "840b8cb60bdcff1f19518d29cfe80716257e263f",
+                "shasum": ""
+            },
+            "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "Davidmgilo\\Myframework\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "David Martinez",
+                    "email": "davidmgilo@gmail.com"
+                }
+            ],
+            "description": "Projecte de Framework de PHP",
+            "homepage": "https://github.com/davidmgilo/php-learning",
+            "time": "2016-10-06 18:11:50"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
