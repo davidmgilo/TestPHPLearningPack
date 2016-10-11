@@ -9,16 +9,16 @@
     "packages": [
         {
             "name": "davidmgilo/php-learning",
-            "version": "0.1",
+            "version": "0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/davidmgilo/php-learning.git",
-                "reference": "840b8cb60bdcff1f19518d29cfe80716257e263f"
+                "reference": "f50556dbfbb4e6356acf81752a915717b0c8b458"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/davidmgilo/php-learning/zipball/840b8cb60bdcff1f19518d29cfe80716257e263f",
-                "reference": "840b8cb60bdcff1f19518d29cfe80716257e263f",
+                "url": "https://api.github.com/repos/davidmgilo/php-learning/zipball/f50556dbfbb4e6356acf81752a915717b0c8b458",
+                "reference": "f50556dbfbb4e6356acf81752a915717b0c8b458",
                 "shasum": ""
             },
             "type": "project",
@@ -39,7 +39,7 @@
             ],
             "description": "Projecte de Framework de PHP",
             "homepage": "https://github.com/davidmgilo/php-learning",
-            "time": "2016-10-06 18:11:50"
+            "time": "2016-10-11 17:03:20"
         }
     ],
     "packages-dev": [],
